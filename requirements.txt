@@ -1,0 +1,4 @@
+requests==2.20.0
+python_telegram_bot==11.1.0
+beautifulsoup4==4.7.1
+telegram==0.0.1
